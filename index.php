@@ -1,5 +1,7 @@
 <!DOCTYPE html>
 	<html>
+		<!--Cela est un modele de conception pour vous qui peut etre utile -->
+		<!-- @author: christopharus @contact:armelzong@gmail.com -->
 		<head>
 			<meta charset="utf-8" />
 			<link rel="stylesheet" href="css/bootstrap/dist/css/bootstrap.min.css" />
@@ -58,12 +60,3 @@
 			</footer>
 		</body>
 </html>
-			
-			
-			
-			
-			
-
-
-		</body>
-	</html>
